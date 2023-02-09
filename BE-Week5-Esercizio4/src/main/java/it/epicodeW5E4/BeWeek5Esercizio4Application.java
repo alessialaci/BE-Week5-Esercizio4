@@ -40,9 +40,9 @@ public class BeWeek5Esercizio4Application implements CommandLineRunner {
 	@Override
 	public void run(String... args) throws Exception {
 		
-		//insertPizza();
+		insertPizza();
 		insertBevanda();
-		//insertFranchising();
+		insertFranchising();
 	}
 	
 	public void insertPizza() {
